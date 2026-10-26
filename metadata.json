@@ -1,0 +1,8 @@
+{
+  "name": "Crocant Tour - Sistema Logístico y Operativo",
+  "description": "Plataforma integral de gestión logística, inventarios 5S, abastecimiento y distribución para Crocant Tour en Buga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
